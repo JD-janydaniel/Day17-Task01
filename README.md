@@ -15,5 +15,5 @@ Implementing the rest countries and Open weather map APIs using fetch() API
     <li>Flag</li>
     <li>Country</li>
 </ul>
-<h6>then i have deployed the html file through the netlify</h6>
-<h6>And i also pushed all source to the gitbhub</h6>
+then i have deployed the html file through the netlify<br>
+And i also pushed all source to the gitbhub
