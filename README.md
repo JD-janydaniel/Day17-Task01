@@ -1,5 +1,5 @@
 <h2>Restcountries & Weather using fetch API</h2>
-<h6>Implementing the rest countries and Open weather map APIs using fetch() API</h6>
+Implementing the rest countries and Open weather map APIs using fetch() API
 <h4>Constraints</h4>
 <ul>
   <li>All your <b>HTML</b> elements should be created with <b>DOM</b>.</li>
