@@ -32,7 +32,7 @@ function bar(data1){
 
 function button_click(event,lat,lon){
     event.preventDefault();
-  var final_res = fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=06fa0f3a63d5a2486f1a3d6aa8f4d125`)
+  var final_res = fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=`)
   .then((data2)=>data2.json()).then((data3)=>{
     let temperature = data3.main.temp;
   let span = event.target.parentElement.querySelector(".temperature")
