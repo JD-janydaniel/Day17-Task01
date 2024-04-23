@@ -18,4 +18,6 @@ Implementing the rest countries and Open weather map APIs using fetch() API
 then i have deployed the html file through the netlify<br>
 And i also pushed all source to the gitbhub
 <h3>Deployment Link</h3>
-https://celebrated-pothos-8f2216.netlify.app/
+<ul>
+  <li>https://celebrated-pothos-8f2216.netlify.app/</li>
+</ul>
