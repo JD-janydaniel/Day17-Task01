@@ -1,6 +1,6 @@
-<h2>Restcountries & Weather using fetch API</h2>
+<h1>Restcountries & Weather using fetch API</h1>
 Implementing the rest countries and Open weather map APIs using fetch() API
-<h4>Constraints</h4>
+<h2>Constraints</h2>
 <ul>
   <li>All your <b>HTML</b> elements should be created with <b>DOM</b>.</li>
   <li>Use only fetch() <b>API<b> to get both rest countries data and open weather</li>
